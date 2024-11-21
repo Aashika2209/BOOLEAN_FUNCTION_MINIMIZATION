@@ -1,4 +1,6 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
+## NAME : AASHIKA JAIN . G
+## REF NO. : 24900589
 
 **AIM:**
 
@@ -35,16 +37,19 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+
+![pro bool](https://github.com/user-attachments/assets/cfb1b66f-75e0-4fc6-8c6a-89329f1020c5)
+
 
 
 **RTL realization**
 
-**Output:**
+![rtl bool](https://github.com/user-attachments/assets/6be59d7c-1a2b-407c-8fbd-eacf3195f77b)
 
-**RTL**
 
-**Timing Diagram**
+**RTL Output:**
+
+![output bool](https://github.com/user-attachments/assets/64ecd3dd-a34b-4ca7-9cdd-f250f7c1a489)
 
 **Result:**
 
